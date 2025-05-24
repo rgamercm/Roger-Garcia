@@ -13,8 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📊 Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rgamercm&show_icons=true&theme=radical)
-     !  [Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=rgamercm&layout=compact)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rgamercm&show_icons=true&theme=radical)   
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=rgamercm&layout=compact)
 
 ### 🔥 Proyectos Destacados
 - [Proyecto 1](https://github.com/rgamercm/Metodo_de_gauss)
