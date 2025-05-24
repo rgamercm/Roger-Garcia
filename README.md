@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Roger Garcia
 
-### 🌱 Sobre mí
+### 🌱 Sobre mí    
 - 🔭 Actualmente estoy aprendiendo: `Python`, `JavaScript`, `Git`, `C++`, `HTML`, `CSS`, `Dart`, `SQL`.
 - 📚 Estudiando: [Python].
 - 💡 Me interesa: [Desarrolo web, aplicaciones mobiles y ciberseguridad].
